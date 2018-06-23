@@ -1,4 +1,4 @@
-package practice;
+package homework;
 
 public class Temp {
 }
